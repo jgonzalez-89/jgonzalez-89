@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Creative full-stack developoer, engineer.
+Creative full-stack developer, engineer.
 
 
 ## 🌐 Socials:
