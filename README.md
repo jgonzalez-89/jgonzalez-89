@@ -5,7 +5,7 @@
 
   
 
-### <div align="center">I'm Jorse Luis, a full-time full-stack student developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Jose L., a full-time full-stack student developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on my studies  
