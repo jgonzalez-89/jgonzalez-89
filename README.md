@@ -19,10 +19,12 @@
   
 
 <br/>  
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=jgonzalez-89&&style=flat-square" align="center" />
+</div>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%" style="border-color: white;">
+<table><tr><td valign="top" width="33%" style="border-color: none;">
 
 
 
@@ -97,4 +99,3 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jgonzalez-89&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/> 
-
