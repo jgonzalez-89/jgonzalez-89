@@ -1,6 +1,8 @@
 <div align="center">
-<img src="https://travellemming.com/wp-content/uploads/Colorado-Road-Trip-Itinerary-e1645969800603.jpg" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/originals/de/7b/d6/de7bd6a32ee6aba8ab6da671aa4df54b.gif" align="center" style="width: 100%" />
 </div>  
+
+
   
 
 ### <div align="center">I'm Jorse Luis, a full-time full-stack student developer 👨‍💻 working remotely since 2022 🚀</div>  
