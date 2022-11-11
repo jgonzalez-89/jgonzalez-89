@@ -14,11 +14,6 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
-
-  <div align="center">
-<img src="https://i.pinimg.com/originals/de/7b/d6/de7bd6a32ee6aba8ab6da671aa4df54b.gif" align="center" style="width: 100%" />
-</div>  
-
 ---
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
