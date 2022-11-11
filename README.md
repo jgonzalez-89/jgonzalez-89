@@ -20,7 +20,7 @@ name: Jose L. Gonzalez
 located_in: Spain, Bilbao
 education:
   [
-    "Self-Taught Developer and Designer",,
+    "Self-Taught Developer and Designer",
   ]
 
 fields_of_interests:
