@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jose-luis-gonzalez-diaz-0327981b8/">
+<a href="https://www.linkedin.com/in/jgonzalez89">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 </p>
