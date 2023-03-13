@@ -62,8 +62,8 @@ currently_learning: ["4Geek Bootcamp, Docker, Kubernetes and React"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/jgonzalez-89">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jgonzalez-89&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgonzalez-89&theme=noctis_minimus&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jgonzalez-89&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jgonzalez-89&theme=noctis_minimus&layout=compact" />
 </a>
 
 <p align="left">
