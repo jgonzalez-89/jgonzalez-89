@@ -67,3 +67,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+## 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jgonzalez-89/jgonzalez-89/output/snake.svg" alt="Snake animation" />
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jgonzalez-89&theme=tokyonight&hide_border=false"  />
+</div>
+
