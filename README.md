@@ -39,7 +39,7 @@
  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
@@ -57,15 +57,7 @@
 </p>
 
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
-<a href="https://github.com/jgonzalez-89">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jgonzalez-89&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jgonzalez-89&theme=noctis_minimus&layout=compact" />
-</a>
 
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 ## 📊 GitHub Stats:
 
