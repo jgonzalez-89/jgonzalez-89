@@ -11,34 +11,32 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 </p>
----
+
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-```
-name: Jose L. Gonzalez
-located_in: Spain, Bilbao
-education:
-  [
-    "Self-Taught Developer and Designer",
-  ]
 
-fields_of_interests:
-  [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Software Development",
-    "DevOps",
-  ]
+👋 Hi, I'm Jose L., a Full Stack Engineer enthusiastic and committed to building scalable and high performance web applications. With solid skills in JavaScript, Python, and a wide experience in frameworks like React, Angular, Vue, Node.js, Django and Flask.
 
-  
-currently_learning: ["4Geek Bootcamp, Docker, Kubernetes and React"]
-2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-```
-  
----  
+🔧 Technical Skills:
+
+- Frontend: HTML5, CSS3, JavaScript (ES6+), React, Angular, Vue.js, Bootstrap, Material UI, Tailwind CSS
+- Backend: Node.js, Django, Flask, GraphQL, REST APIs
+- Databases: MySQL, PostgreSQL, MongoDB, Firebase
+- Version control: Git, GitHub, GitLab
+- CI/CD tools: Jenkins, Travis CI, GitHub Actions
+- Agile methodologies: Scrum, Kanban
+- Testing: Jest, Mocha, Enzyme, Selenium, Pytest
+- Cloud: AWS, Google Cloud, Azure
+- Containers: Docker, Kubernetes
+
+🌱 Always learning and adapting to new technologies to keep improving and developing efficient and innovative solutions. 
+
+
+
+🌌 Together, let's build the future of technology!
+
+ 
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -58,7 +56,6 @@ currently_learning: ["4Geek Bootcamp, Docker, Kubernetes and React"]
  
 </p>
 
----
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/jgonzalez-89">
