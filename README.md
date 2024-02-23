@@ -16,7 +16,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 
-👋 Hi, I'm Jose L., a Full Stack Engineer enthusiastic and committed to building scalable and high performance web applications. With solid skills in JavaScript, Python, and a wide experience in frameworks like React, Angular, Vue, Node.js, Django and Flask.
+👋 Hi, I'm Jose L., a Backend developer enthusiastic and committed to building scalable and high performance web applications. With solid skills in JavaScript, Python, and a wide experience in frameworks like React, Angular, Vue, Node.js, Django and Flask.
 
 🔧 Technical Skills:
 
