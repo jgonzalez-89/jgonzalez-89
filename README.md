@@ -70,7 +70,21 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jgonzalez-89/jgonzalez-89/output/snake.svg" alt="Snake animation" />
+<!-- 🐍 Snake animation — light/dark aware -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgonzalez-89/jgonzalez-89/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jgonzalez-89/jgonzalez-89/output/snake.svg"/>
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/jgonzalez-89/jgonzalez-89/output/snake.svg"/>
+  </picture>
+</div>
+<br/>
+<p align="center">
+  <i>🌌 Together, let's build the future of technology!</i>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</p>
 
   <br />
 
